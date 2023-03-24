@@ -1,13 +1,17 @@
 title: Paula Rueda # your name (or website title) here
 logo: "/images/logoc.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Industrial Engineer with an international Master’s degree in Finance. Has 6+ years of experience in financial modeling and valuation analysis, corporate finance, and project management.
-  Multilingual (English, Spanish, Portuguese, and French) with strong analytical skills, detail-oriented, proactive and ability to work effectively in a fast-paced environment.
-  Goes above and beyond for the team improvement, and has strong collaborative values. 
+  MSc in Finance with over 6 years of experience in team leadership, financial modeling, data analysis, budgeting, and forecasting. Proven track record of delivering exceptional data-driven results in fast-paced, global environments. Skilled in developing and implementing effective financial strategies to drive growth, and profitability. Committed to team improvement, with strong collaborative values and a willingness to go above and beyond to ensure success.
   <br><br>
-  Second description 
+SKILLS
+English; Spanish (Bilingual); Portuguese; French (Proficient) 
+Excel; Power Point; Power BI; Stata (Advanced); SQL; R; F#(Proficient) 
+Corporate Finance; Financial analysis; Budgeting & Forecasting; Financial modeling (Advanced)
+
   <br><br>
-  <a href="https://www.linkedin.com/in/paularuedaleal/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/paularuedaleal/">View My LinkedIn Profile</a>
+  <br><br>
+  <a href="https://github.com/Paula52485">View My GitHub Profile</a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
