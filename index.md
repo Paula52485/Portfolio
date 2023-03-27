@@ -4,15 +4,15 @@
 
 ### Projects
 
-[Company valuation](/sample_page)
+[L'Oréal financial analysis and valuation using DCF and multiples methods](/sample_page)
 <img src="images/Project1.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Multivariate Garch](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Time Series](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
